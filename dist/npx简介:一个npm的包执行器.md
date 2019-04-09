@@ -12,6 +12,5 @@ npx 是一个工具，它旨在提高从 npm 注册表中使用软件包的体�
 
 ### 使用本地安装的工具，不执行 npm run-script
 
-![](../assets/one.gif)
-
-<center>将 cowsay 作为本地 devDependency 进行安装，并使用 npx cowsay 来运行它</center>
+![](https://raw.githubusercontent.com/dream-approaching/translate-blog/master/assets/one.gif)
+将 cowsay 作为本地 devDependency 进行安装，并使用 npx cowsay 来运行它

@@ -12,10 +12,11 @@
 
 ## Medium
 
-#### 1、npx 简介:一个 npm 的包执行器
+#### 1、[npx 简介:一个 npm 的包执行器](https://github.com/dream-approaching/translate-blog/issues/1)
 
 原文：[Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)  
-作者：[Kat Marchán](https://medium.com/@maybekatz)
+作者：[Kat Marchán](https://medium.com/@maybekatz)  
+时间：2017 年 7 月 11 日
 
 #### 2、容器组件
 
