@@ -1,10 +1,8 @@
 # npx 简介:一个 npm 的包执行器
 
-原文：[Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)  
-作者：[Kat Marchán](https://medium.com/@maybekatz)  
-时间：2017 年 7 月 11 日
-
----
+> 原文：[Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)  
+> 作者：[Kat Marchán](https://medium.com/@maybekatz)  
+> 时间：2017 年 7 月 11 日
 
 那些将 npm 升级到最新版本[`npm@5.2.0`](https://github.com/npm/npm/releases/tag/v5.2.0)的人可能会注意到，这次版本除了通常的`npm`之外还安装了一个新的二进制文件：[`npx`](https://www.npmjs.com/package/npx)
 
