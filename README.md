@@ -1,9 +1,6 @@
 ## 前言
 
-主要目的有两个：
-
-1.  加深学习印象，觉得我看英文的时候会比看中文更细心
-2.  英语不太好，通过这个方式学习英语
+比较懒 + 英文不好 = 半年一更
 
 ## Medium
 
@@ -14,6 +11,17 @@
 #### 3、展示组件与容器组件
 
 ## React 官网
+
+#### React HOOK
+
+- Hook 简介
+- Hook 概览
+- State Hook
+- Effect Hook
+- Hook 规则
+- 自定义 Hook
+- Hooks Api
+- Hooks FAQ
 
 ## 其他
 
